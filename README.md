@@ -1,0 +1,2 @@
+# Student-Performance-and-Placement-Prediction-Using-Machine-Learning
+An end-to-end machine-learning project that analyzes academic, technical, and experiential factors to estimate student placement readiness. It includes CSV data validation, exploratory analysis, logistic-regression training, accuracy/precision/recall/F1 evaluation, individual prediction, and an automatically generated HTML report.
